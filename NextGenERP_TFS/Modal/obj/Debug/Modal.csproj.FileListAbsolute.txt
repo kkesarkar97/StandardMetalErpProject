@@ -1,0 +1,15 @@
+C:\Other Drive\F\Apps\NextGenERP_TFS\Modal\bin\Debug\Modal.dll
+C:\Other Drive\F\Apps\NextGenERP_TFS\Modal\bin\Debug\Modal.pdb
+C:\Other Drive\F\Apps\NextGenERP_TFS\Modal\obj\Debug\Modal.csproj.CoreCompileInputs.cache
+C:\Other Drive\F\Apps\NextGenERP_TFS\Modal\obj\Debug\Modal.dll
+C:\Other Drive\F\Apps\NextGenERP_TFS\Modal\obj\Debug\Modal.pdb
+D:\my project\NextGenERP_TFS (1)\NextGenERP_TFS\Modal\bin\Debug\Modal.dll
+D:\my project\NextGenERP_TFS (1)\NextGenERP_TFS\Modal\bin\Debug\Modal.pdb
+D:\my project\NextGenERP_TFS (1)\NextGenERP_TFS\Modal\obj\Debug\Modal.dll
+D:\my project\NextGenERP_TFS (1)\NextGenERP_TFS\Modal\obj\Debug\Modal.pdb
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\Modal\bin\Debug\Modal.dll
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\Modal\bin\Debug\Modal.pdb
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\Modal\obj\Debug\Modal.csprojAssemblyReference.cache
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\Modal\obj\Debug\Modal.csproj.CoreCompileInputs.cache
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\Modal\obj\Debug\Modal.dll
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\Modal\obj\Debug\Modal.pdb

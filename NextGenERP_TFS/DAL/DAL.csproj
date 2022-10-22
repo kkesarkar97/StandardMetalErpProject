@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FE3AFA1E-E2B0-42ED-B13F-A6E69B83E353}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DAL</RootNamespace>
+    <AssemblyName>DAL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="ConncetionClass.cs" />
+    <Compile Include="CustomerPODal.cs" />
+    <Compile Include="dbCompanyMaster.cs" />
+    <Compile Include="dbcustomermaster.cs" />
+    <Compile Include="dbEstimate.cs" />
+    <Compile Include="dbItemMaster.cs" />
+    <Compile Include="dbLogindetails.cs" />
+    <Compile Include="dbMaterialInward.cs" />
+    <Compile Include="dbProductionNote.cs" />
+    <Compile Include="dbRptClass.cs" />
+    <Compile Include="dbStockTransfer.cs" />
+    <Compile Include="dbSupplierMaster.cs" />
+    <Compile Include="dbTaxInvoice.cs" />
+    <Compile Include="DefaultData.cs" />
+    <Compile Include="DemoItemMasterDAL.cs" />
+    <Compile Include="EmployeeMasterData.cs" />
+    <Compile Include="EmployeeMasterNDAL.cs" />
+    <Compile Include="EnquiryMasterDal.cs" />
+    <Compile Include="IndentApprovalDal.cs" />
+    <Compile Include="IndentMasterData.cs" />
+    <Compile Include="ItemMaster19SeptDAL.cs" />
+    <Compile Include="ItemMaster_10May_DAL.cs" />
+    <Compile Include="ItemMaster_DAL.cs" />
+    <Compile Include="ItemMaster_DAL_27March.cs" />
+    <Compile Include="LoginUserMasterDAL.cs" />
+    <Compile Include="MachineMasterDAL.cs" />
+    <Compile Include="MachineMasterDAL31.cs" />
+    <Compile Include="MachineMasterNDAL.cs" />
+    <Compile Include="MachineVsCheckPointData.cs" />
+    <Compile Include="Machine_DAL_14.cs" />
+    <Compile Include="MasterReportFormData.cs" />
+    <Compile Include="MenuMasterDal.cs" />
+    <Compile Include="OrderAcceptanceDAL.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuotationMasterDAL.cs" />
+    <Compile Include="RoleMasterDAL.cs" />
+    <Compile Include="SubMenuDal.cs" />
+    <Compile Include="SupplierMasterNDAL.cs" />
+    <Compile Include="SupplierMasterDAL05Oct.cs" />
+    <Compile Include="SupplierPOData.cs" />
+    <Compile Include="TestMasterDAL.cs" />
+    <Compile Include="UploadMasterDAL.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Modal\Modal.csproj">
+      <Project>{5475F17F-64EF-4D69-94A7-16726578B1F2}</Project>
+      <Name>Modal</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

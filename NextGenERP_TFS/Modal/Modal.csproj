@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5475F17F-64EF-4D69-94A7-16726578B1F2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Modal</RootNamespace>
+    <AssemblyName>Modal</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="CompanyMasterModel.cs" />
+    <Compile Include="CustomerMasterModel.cs" />
+    <Compile Include="CustomerPOModel.cs" />
+    <Compile Include="DefaultModal.cs" />
+    <Compile Include="DemoItemMasterModel.cs" />
+    <Compile Include="EmployeeMasterModel.cs" />
+    <Compile Include="EmployeeMasterNModel.cs" />
+    <Compile Include="EnquiryMasterModel.cs" />
+    <Compile Include="IndentApprovalModal.cs" />
+    <Compile Include="IndentMasterModel.cs" />
+    <Compile Include="ItemMasterModel.cs" />
+    <Compile Include="ItemMaster_10May_Model.cs" />
+    <Compile Include="ItemMaster_Model.cs" />
+    <Compile Include="ItemMaster_MODEL_27March.cs" />
+    <Compile Include="LoginDetailsModel.cs" />
+    <Compile Include="LoginUserMasterModel.cs" />
+    <Compile Include="MachineMasterMMODAL31.cs" />
+    <Compile Include="MachineMasterModal.cs" />
+    <Compile Include="MachineMasterNModel.cs" />
+    <Compile Include="MachineVsCheckPointModel.cs" />
+    <Compile Include="Machine_Model_14.cs" />
+    <Compile Include="MasterDataFieldsModel.cs" />
+    <Compile Include="MasterFormsReportModal.cs" />
+    <Compile Include="MenuMasterModel.cs" />
+    <Compile Include="NameCode.cs" />
+    <Compile Include="OrderAcceptanceMODEL.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuotationDetailsModel.cs" />
+    <Compile Include="QuotationMasterModel.cs" />
+    <Compile Include="RoleMasterModel.cs" />
+    <Compile Include="SubMenuModel.cs" />
+    <Compile Include="SupplierMasterNMODEL.cs" />
+    <Compile Include="SupplierPOModel.cs" />
+    <Compile Include="TestMasterModel.cs" />
+    <Compile Include="UploadMasterModel.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

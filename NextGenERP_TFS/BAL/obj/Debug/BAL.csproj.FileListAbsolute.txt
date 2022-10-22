@@ -1,0 +1,31 @@
+C:\Other Drive\F\Apps\NextGenERP_TFS\BAL\bin\Debug\BAL.dll
+C:\Other Drive\F\Apps\NextGenERP_TFS\BAL\bin\Debug\BAL.pdb
+C:\Other Drive\F\Apps\NextGenERP_TFS\BAL\bin\Debug\DAL.dll
+C:\Other Drive\F\Apps\NextGenERP_TFS\BAL\bin\Debug\Modal.dll
+C:\Other Drive\F\Apps\NextGenERP_TFS\BAL\bin\Debug\DAL.pdb
+C:\Other Drive\F\Apps\NextGenERP_TFS\BAL\bin\Debug\Modal.pdb
+C:\Other Drive\F\Apps\NextGenERP_TFS\BAL\obj\Debug\BAL.csprojAssemblyReference.cache
+C:\Other Drive\F\Apps\NextGenERP_TFS\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Other Drive\F\Apps\NextGenERP_TFS\BAL\obj\Debug\BAL.csproj.CopyComplete
+C:\Other Drive\F\Apps\NextGenERP_TFS\BAL\obj\Debug\BAL.dll
+C:\Other Drive\F\Apps\NextGenERP_TFS\BAL\obj\Debug\BAL.pdb
+D:\my project\NextGenERP_TFS (1)\NextGenERP_TFS\BAL\bin\Debug\BAL.dll
+D:\my project\NextGenERP_TFS (1)\NextGenERP_TFS\BAL\bin\Debug\BAL.pdb
+D:\my project\NextGenERP_TFS (1)\NextGenERP_TFS\BAL\bin\Debug\DAL.dll
+D:\my project\NextGenERP_TFS (1)\NextGenERP_TFS\BAL\bin\Debug\Modal.dll
+D:\my project\NextGenERP_TFS (1)\NextGenERP_TFS\BAL\bin\Debug\DAL.pdb
+D:\my project\NextGenERP_TFS (1)\NextGenERP_TFS\BAL\bin\Debug\Modal.pdb
+D:\my project\NextGenERP_TFS (1)\NextGenERP_TFS\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\my project\NextGenERP_TFS (1)\NextGenERP_TFS\BAL\obj\Debug\BAL.dll
+D:\my project\NextGenERP_TFS (1)\NextGenERP_TFS\BAL\obj\Debug\BAL.pdb
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\BAL\bin\Debug\BAL.dll
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\BAL\bin\Debug\BAL.pdb
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\BAL\bin\Debug\DAL.dll
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\BAL\bin\Debug\Modal.dll
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\BAL\bin\Debug\DAL.pdb
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\BAL\bin\Debug\Modal.pdb
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\BAL\obj\Debug\BAL.csprojAssemblyReference.cache
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\BAL\obj\Debug\BAL.csproj.CopyComplete
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\BAL\obj\Debug\BAL.dll
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\BAL\obj\Debug\BAL.pdb

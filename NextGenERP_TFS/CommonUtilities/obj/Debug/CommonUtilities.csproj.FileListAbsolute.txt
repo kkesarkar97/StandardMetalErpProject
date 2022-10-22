@@ -1,0 +1,15 @@
+C:\Other Drive\F\Apps\NextGenERP_TFS\CommonUtilities\bin\Debug\CommonUtilities.dll
+C:\Other Drive\F\Apps\NextGenERP_TFS\CommonUtilities\bin\Debug\CommonUtilities.pdb
+C:\Other Drive\F\Apps\NextGenERP_TFS\CommonUtilities\obj\Debug\CommonUtilities.csproj.CoreCompileInputs.cache
+C:\Other Drive\F\Apps\NextGenERP_TFS\CommonUtilities\obj\Debug\CommonUtilities.dll
+C:\Other Drive\F\Apps\NextGenERP_TFS\CommonUtilities\obj\Debug\CommonUtilities.pdb
+D:\my project\NextGenERP_TFS (1)\NextGenERP_TFS\CommonUtilities\bin\Debug\CommonUtilities.dll
+D:\my project\NextGenERP_TFS (1)\NextGenERP_TFS\CommonUtilities\bin\Debug\CommonUtilities.pdb
+D:\my project\NextGenERP_TFS (1)\NextGenERP_TFS\CommonUtilities\obj\Debug\CommonUtilities.dll
+D:\my project\NextGenERP_TFS (1)\NextGenERP_TFS\CommonUtilities\obj\Debug\CommonUtilities.pdb
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\CommonUtilities\bin\Debug\CommonUtilities.dll
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\CommonUtilities\bin\Debug\CommonUtilities.pdb
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\CommonUtilities\obj\Debug\CommonUtilities.csprojAssemblyReference.cache
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\CommonUtilities\obj\Debug\CommonUtilities.csproj.CoreCompileInputs.cache
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\CommonUtilities\obj\Debug\CommonUtilities.dll
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\CommonUtilities\obj\Debug\CommonUtilities.pdb

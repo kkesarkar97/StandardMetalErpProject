@@ -1,0 +1,45 @@
+C:\Other Drive\F\Apps\NextGenERP_TFS\NavnathWebsite\obj\Debug\StandardMetalErp.csprojAssemblyReference.cache
+C:\Other Drive\F\Apps\NextGenERP_TFS\NavnathWebsite\obj\Debug\StandardMetalErp.csproj.CoreCompileInputs.cache
+C:\Other Drive\F\Apps\NextGenERP_TFS\NavnathWebsite\bin\NavnathWebsite.dll
+C:\Other Drive\F\Apps\NextGenERP_TFS\NavnathWebsite\bin\NavnathWebsite.pdb
+C:\Other Drive\F\Apps\NextGenERP_TFS\NavnathWebsite\bin\BAL.dll
+C:\Other Drive\F\Apps\NextGenERP_TFS\NavnathWebsite\bin\CommonUtilities.dll
+C:\Other Drive\F\Apps\NextGenERP_TFS\NavnathWebsite\bin\DAL.dll
+C:\Other Drive\F\Apps\NextGenERP_TFS\NavnathWebsite\bin\Modal.dll
+C:\Other Drive\F\Apps\NextGenERP_TFS\NavnathWebsite\bin\BAL.pdb
+C:\Other Drive\F\Apps\NextGenERP_TFS\NavnathWebsite\bin\CommonUtilities.pdb
+C:\Other Drive\F\Apps\NextGenERP_TFS\NavnathWebsite\bin\DAL.pdb
+C:\Other Drive\F\Apps\NextGenERP_TFS\NavnathWebsite\bin\Modal.pdb
+C:\Other Drive\F\Apps\NextGenERP_TFS\NavnathWebsite\obj\Debug\StandardMetalErp.csproj.CopyComplete
+C:\Other Drive\F\Apps\NextGenERP_TFS\NavnathWebsite\obj\Debug\NavnathWebsite.dll
+C:\Other Drive\F\Apps\NextGenERP_TFS\NavnathWebsite\obj\Debug\NavnathWebsite.pdb
+D:\my project\NextGenERP_TFS (1)\NextGenERP_TFS\NavnathWebsite\bin\NavnathWebsite.dll
+D:\my project\NextGenERP_TFS (1)\NextGenERP_TFS\NavnathWebsite\bin\NavnathWebsite.pdb
+D:\my project\NextGenERP_TFS (1)\NextGenERP_TFS\NavnathWebsite\bin\BAL.dll
+D:\my project\NextGenERP_TFS (1)\NextGenERP_TFS\NavnathWebsite\bin\CommonUtilities.dll
+D:\my project\NextGenERP_TFS (1)\NextGenERP_TFS\NavnathWebsite\bin\DAL.dll
+D:\my project\NextGenERP_TFS (1)\NextGenERP_TFS\NavnathWebsite\bin\Modal.dll
+D:\my project\NextGenERP_TFS (1)\NextGenERP_TFS\NavnathWebsite\bin\BAL.pdb
+D:\my project\NextGenERP_TFS (1)\NextGenERP_TFS\NavnathWebsite\bin\CommonUtilities.pdb
+D:\my project\NextGenERP_TFS (1)\NextGenERP_TFS\NavnathWebsite\bin\DAL.pdb
+D:\my project\NextGenERP_TFS (1)\NextGenERP_TFS\NavnathWebsite\bin\Modal.pdb
+D:\my project\NextGenERP_TFS (1)\NextGenERP_TFS\NavnathWebsite\obj\Debug\StandardMetalErp.csprojResolveAssemblyReference.cache
+D:\my project\NextGenERP_TFS (1)\NextGenERP_TFS\NavnathWebsite\obj\Debug\RdlCompile.cache
+D:\my project\NextGenERP_TFS (1)\NextGenERP_TFS\NavnathWebsite\obj\Debug\RdlCompile.compiled
+D:\my project\NextGenERP_TFS (1)\NextGenERP_TFS\NavnathWebsite\obj\Debug\NavnathWebsite.dll
+D:\my project\NextGenERP_TFS (1)\NextGenERP_TFS\NavnathWebsite\obj\Debug\NavnathWebsite.pdb
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\NavnathWebsite\bin\NavnathWebsite.dll
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\NavnathWebsite\bin\NavnathWebsite.pdb
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\NavnathWebsite\bin\BAL.dll
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\NavnathWebsite\bin\CommonUtilities.dll
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\NavnathWebsite\bin\DAL.dll
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\NavnathWebsite\bin\Modal.dll
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\NavnathWebsite\bin\BAL.pdb
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\NavnathWebsite\bin\CommonUtilities.pdb
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\NavnathWebsite\bin\DAL.pdb
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\NavnathWebsite\bin\Modal.pdb
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\NavnathWebsite\obj\Debug\StandardMetalErp.csprojAssemblyReference.cache
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\NavnathWebsite\obj\Debug\StandardMetalErp.csproj.CoreCompileInputs.cache
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\NavnathWebsite\obj\Debug\StandardMetalErp.csproj.CopyComplete
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\NavnathWebsite\obj\Debug\NavnathWebsite.dll
+D:\NextGenERP_TFS_Project_\NextGenERP_TFS\NavnathWebsite\obj\Debug\NavnathWebsite.pdb
